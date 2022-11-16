@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light");
+@import url("https://fonts.googleapis.com/css?family=Handlee");
+@import url("https://fonts.googleapis.com/css?family=Give+You+Glory");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+body {
+    min-height: 100vh;
+    max-height: 100vh;
+    padding: 3em;
+    background-color: #FFF2EC;
+
+}
+
+h1 {
+    font-family: "Give You Glory",
+        cursive;
+}
+
+.app {}
+
+.weddings {
+    padding: 2em;
+    background-color: #FFF;
+    border-radius: 1em;
+}
