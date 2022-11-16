@@ -65,3 +65,15 @@ canvas {
         color: pink;
     }
 }
+
+// respon
+@media only screen and (max-width: 768px) {
+    .app {
+        padding: 1em;
+        overflow-y: auto;
+
+        .weddings {
+            display: block;
+        }
+    }
+}
